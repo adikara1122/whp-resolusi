@@ -1,2 +1,2 @@
 # whp-resolusi
-Repository untuk menyimpan rencana wpu kedepan
+Repository untuk menyimpan rencana whp kedepan
